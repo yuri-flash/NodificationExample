@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\pre-dexed\debug\classes-b0c23e6b25e6f4376b4efd8f6923de0414c54158.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\pre-dexed\debug\classes-cf286f73c945636334abac7f167f9a8268c33264.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-76715ba88594780afe6d60b07f498d94fd31cd4a.jar" />
+    </item>
+    <item
+        jar="C:\android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\notification\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5d0768e589ae74917314263ec75f0a2a12160386.jar" />
+    </item>
+
+</items>
